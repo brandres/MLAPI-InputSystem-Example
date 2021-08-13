@@ -1,0 +1,8 @@
+Assembly-CSharp.csproj
+MLAPI-InputSystem-Example.sln
+.vscode/
+build/
+Library/
+Logs/
+obj/
+UserSettings/
