@@ -15,8 +15,8 @@ public class Player : NetworkBehaviour
         ReadPermission = NetworkVariablePermission.Everyone
     });
     public Vector3 direction = Vector3.zero;
-
     public float speed = 1;
+
     // Start is called before the first frame update
     void Start()
     {
